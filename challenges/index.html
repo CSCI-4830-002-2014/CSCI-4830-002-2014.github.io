@@ -1,0 +1,37 @@
+---
+layout: challenge
+title: Challenges
+group: challenge
+---
+
+{% for x in site.data.challenges %}
+
+<article class="blog-post">
+        <div class="one columns alpha">
+          <div class="blog-date-sec"> 
+            <span style="font-weight:bolder;">START</span>
+            <span>{{ x.assigned.month }}</span>
+            <h3>{{ x.assigned.day }}</h3>
+            <span>{{ x.assigned.year }}</span> </div>
+        </div>
+        <div class="one columns alpha">
+          <div class="blog-date-sec"> 
+            <span style="font-weight:bolder;">DUE</span>
+            <span>{{ x.due.month }}</span>
+            <h3>{{ x.due.day }}</h3>
+            <span>{{ x.due.year }}</span> </div>
+        </div>        
+        <div class="three columns alpha"> <img src="{{x.url}}/banner.jpg" alt=""><br>
+        </div>
+        <div class="six columns omega">
+          <h3><a href="{{x.url}}">{{ x.name }}</a></h3>
+<!--           <div class="postmetadata">
+            <h6 class="blog-author"><strong>by</strong> John Smith </h6>
+            <h6 class="blog-cat"><strong>in</strong> Business, News, Company </h6>
+          </div>
+ -->          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. interdum sit Phasellus blandit mattis ipsum, ac laoreet lorem lacinia et. Cras et ligula libero. Quisque quis…</p>
+          <a href="{{x.url}}"  class="readmore">read more</a> </div>
+        <br class="clear">
+</article>
+
+{% endfor %}

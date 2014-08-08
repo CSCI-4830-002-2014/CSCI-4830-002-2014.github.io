@@ -1,0 +1,36 @@
+- name: Single Sensor
+  milestones:
+     - name: Propose
+       url: /projects/2/propose
+
+     - name: Make
+       url: /projects/2/make
+
+     - name: Deploy
+       url: /projects/2/deploy
+
+     - name: Analyze
+       url: /projects/2/analyze
+
+     - name: Visualize
+       url: /projects/2/visualize      
+
+- name: Multi-Sensor
+  milestones:
+     - name: Propose
+       url: /projects/2/propose
+
+     - name: Make
+       url: /projects/2/make
+
+     - name: Deploy
+       url: /projects/2/deploy
+
+     - name: Analyze
+       url: /projects/2/analyze
+
+     - name: Visualize
+       url: /projects/2/visualize     
+
+     - name: Present
+       url: /projects/2/present

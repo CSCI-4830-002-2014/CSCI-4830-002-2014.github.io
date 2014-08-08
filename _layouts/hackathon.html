@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<section id="headline">
+    <div class="container">
+      <h3> {{page.title}} </h3>
+    </div>
+</section>
+
+<section class="container page-content" >
+    <hr class="vertical-space2">
+    <section class="eleven columns">
+      <article>
+        {{ content }}
+      </article>
+    </section>
+    <aside class="four columns offset-by-one sidebar">
+      <h4 class="subtitle">Hackathons</h4>
+      <div class="listbox1">
+        <ul>
+          {% for c in site.data.hackathons %}  
+            <li><a href="{{c.url}}">{{c.name}}</a></li>
+          {% endfor %}        
+        </ul>
+      </div>
+    </aside>
+    <!-- end-sidebar-->
+    <hr class="vertical-space2">
+</section>
+  <!-- container -->

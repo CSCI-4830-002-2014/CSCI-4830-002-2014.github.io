@@ -1,0 +1,66 @@
+<div id="wrap" class="colorskin-0">
+<!-- <div class="top-bar">
+<div class="container">
+<div class="top-links"> <a href="#">Form</a> | <a href="#">Terms</a> | <a href="#">Contact</a></div>
+<div class="socailfollow"><a href="#" class="facebook"><i class="icomoon-facebook"></i></a> <a href="#" class="dribble"><i class="icomoon-dribbble"></i></a>  <a href="#" class="vimeo"><i class="icomoon-vimeo"></i></a><a href="#" class="google"><i class="icomoon-google"></i></a> <a href="#" class="twitter"><i class="icomoon-twitter"></i></a></div>
+</div>
+</div> -->
+<header id="header">
+<div  class="container">
+<div class="four columns logo">
+  <a href="index.html">
+  <!--   <img src="/images/logo-retina1.png" width="120" id="img-logo" alt="logo"> -->
+    <h4>Big Data Hackathons</h4>
+  </a> 
+  Fall 2014 | CU Boulder</div>
+
+<nav id="nav-wrap" class="nav-wrap1 twelve columns">
+
+        <ul id="nav">
+        <li ><a href="/">Home</a>
+            <ul>              
+              <li><a href="/policy.html">Policy</a></li>
+              <li><a href="/policy.html">Policy</a></li>
+          </ul>
+        </li>
+
+        <li {% if page.group == "challenge" %} class="current" {% endif %}>
+          <a href="/challenges">Challenges</a>
+            <ul>
+            {% for c in site.data.challenges %}  
+              <li><a href="{{c.url}}">{{c.name}}</a></li>
+            {% endfor %}
+            </ul>
+        </li>
+        
+        
+        <li {% if page.group == "hackathon" %} class="current" {% endif %}>
+          <a href="/hackathons">Hackathons</a>        
+            <ul>
+            {% for c in site.data.hackathons %}  
+              <li><a href="{{c.url}}">{{c.name}}</a></li>
+            {% endfor %}
+            </ul>
+        </li>
+
+        <li {% if page.group == "project" %} class="current" {% endif %}>
+          <a href="#">Projects</a>
+          <ul>
+            {% for c in site.data.projects %}  
+              <li class="submenu"><a href="{{c.url}}">{{c.name}}</a>
+                  <ul>
+                  {% for m in c.milestones %}
+                    <li><a href="{{ m.url }}">{{ m.name }}</a></li>
+                  {% endfor %}
+                  </ul>
+              </li>
+            {% endfor %}
+            </ul>
+          </ul>
+        </li>
+      </ul>
+  </nav>
+    <!-- /nav-wrap -->
+</div>
+</header>
+<!-- end-header -->
