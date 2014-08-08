@@ -1,7 +1,7 @@
 ---
 layout: challenge
 title: Course Policy
-group: home
+group: syllabus
 ---
 
 ## Excused Absences

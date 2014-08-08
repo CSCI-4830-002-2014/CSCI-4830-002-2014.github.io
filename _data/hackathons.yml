@@ -1,22 +1,21 @@
-- name: Maps
-  url: /hackathons/1
+- name: Introduction
+  url: /hackathons/0
   location: ATLAS Lounge 
   date:
      month: AUG
      day: 25
      year: 2014
-  
 
-- name: Sensors
-  url: /hackathons/2
+- name: Demographics
+  url: /hackathons/1
   location: ATLAS Lounge 
   date:
      month: SEP
      day: 3
      year: 2014   
 
-- name: Twitter
-  url: /hackathons/3
+- name: Server Access Log
+  url: /hackathons/2
   location: ATLAS Lounge 
   date:
      month: SEP

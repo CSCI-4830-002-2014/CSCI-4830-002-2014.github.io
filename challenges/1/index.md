@@ -1,13 +1,9 @@
 ---
 layout: challenge
-title: Splunk
+title: Splunk (I), D3 (II)
 group: challenge
 ---
 
-# Header 1
+# Part 1: Splunk (I)
 
-## Header 2
-
-### Header 3
-
-![splunk](splunk-example.jpg)
+# Part 2: D3 (II)
