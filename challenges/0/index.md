@@ -22,7 +22,7 @@ As you are going through the tutorial article, we want you to document the proce
 
 But for the purpose of this exercise, use [Stackedit](https://stackedit.io/), an online Markdown editor. Copy and paste the template text below to the online editor.
 
-{% highlight markdown %}
+<pre>
 # In-class Learning Challenge
 
 ## Name
@@ -66,7 +66,7 @@ type-your-answer
 ### Which sentence or paragraph in the tutorial article is impossible to understand and can be skipped for now? 
 type-your-answer
 
-{% endhighlight %}
+</pre>
 
 After you have pasted the template to the ditor, you should see something like below. Begin filling in your name and address.
 
