@@ -1,7 +1,7 @@
 ---
-layout: hackathon
-title: Project 1 - Analyze
+layout: project
 group: project
+id: 3
 ---
 
 # TBD

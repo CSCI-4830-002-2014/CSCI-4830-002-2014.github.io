@@ -2,20 +2,16 @@
 layout: default
 ---
 
-{% assign c = site.data.hackathons[page.id] %}
+{% assign c = site.data.projects[page.id] %}
 
 <section id="headline">
-  <div class="container">
-    <h3> {{c.name}} </h3>
-      <button type="button" class="small teal">
-        <span class="icomoon-calendar-4"></span>
-        {{ c.date.month }} {{ c.date.day }}, {{ c.date.year}}, 5:15pm - 7:45pm
+    <div class="container">
+      <h3> {{c.name}} </h3>
+      <button type="button" class="small red">
+        Due: <span class="icomoon-calendar-4"></span>
+        {{ c.due.month }} {{ c.due.day }}, {{ c.due.year}}, 11:59pm
       </button>
-      <button type="button" class="small gray">
-        <span class="icomoon-location-6"></span>
-        {{ c.location }}
-      </button>      
-  </div>
+    </div>
 </section>
 
 <section class="container page-content" >
@@ -26,10 +22,10 @@ layout: default
       </article>
     </section>
     <aside class="four columns offset-by-one sidebar">
-      <h4 class="subtitle">Hackathons</h4>
+      <h4 class="subtitle">Project Milestones</h4>
       <div class="listbox1">
         <ul>
-          {% for c in site.data.hackathons %}  
+          {% for c in site.data.projects %}  
             <li><a href="{{c.url}}">{{c.name}}</a></li>
           {% endfor %}        
         </ul>

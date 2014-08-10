@@ -1,7 +1,7 @@
 ---
 layout: challenge
-title: Introduction, D3 (I)
 group: challenge
+id: 0
 ---
 
 __Time: 30 minutes__
@@ -79,11 +79,6 @@ After you have pasted the template to the ditor, you should see something like b
 
 As you are going through the tutorial, you will see several intermediate outputs. We've selected two as checkpoints to measure your learning progress. 
 
-
-
-<button type="button" class="small blue">Checkpoint 1</button> The first checkpoint is when you see four cicles likes below.
-
-
 __Checkpoint 1__: The first checkpoint is when you see four cicles likes below.
 
 ![image](demo1.png)
@@ -121,10 +116,17 @@ Write down your answers to TWO of them. Think about the others and be ready to d
 
 # Submission
 
-You should by now have filled out the journal template with links to screenshots and answers to a subset of the study questions. You will use [Github](http://github.com) to submit. Normally, you will use a Github repository to handle all of your submissions (you will be given this respository later). But for now, you will simply create a [Gist](https://gist.github.com/). Fortunately, StackEdit, the online editor you are using for this challenge, provides a feature to help you post your Markdown text directly to Gist. Explore the interface of StackEdit and see if you can find that feature.
+You should by now have filled out the journal template with links to screenshots and answers to a subset of the study questions. You will use [Github](http://github.com) to submit. Normally, you will use a Github repository to handle all of your submissions (you will be given this respository later). But for now, you will simply create a [Gist](https://gist.github.com/). Fortunately, StackEdit, the online editor you are using for this challenge, provides a feature to help you post your Markdown text directly to Gist. Explore the interface of StackEdit and see if you can find that feature. 
 
-The final step, normally, would be to __push__ your repository. But for now, you have a Gist. We will use a Google Document to collect this Gist from everyone in the class. Follow this link to this collection document. Enter your name and the URL to your gist. You will also get to see others' gists and find out what others have done.
+(Hint: If Github is not diplaying your Markdown properly (in the raw format), read this [StackOverflow article](http://stackoverflow.com/questions/8717740/git-gist-markdown-does-not-work) for a solution.)
 
+The final step, normally, would be to __push__ your repository. But for now, you have a Gist. We will use a Google Sheet to collect this Gist from everyone in the class. 
 
+<span class="moonicons-box1">
+		<span aria-hidden="true" class="icomoon-grid-6"></span>
+		&nbsp;
+<a href="https://docs.google.com/spreadsheets/d/1sA9pBLknhCXSfb4VcLou0xI1kVXLx120KeN4kbxtZlY/edit#gid=1573071220"> Submission Spreadsheet</a>
+</span>
 
+Follow this link to this collection document. We will take this opporunity to take your contact information too. Please enter your name, email address, Github account id (make one if you don't have one already), and the URL to your gist.
 

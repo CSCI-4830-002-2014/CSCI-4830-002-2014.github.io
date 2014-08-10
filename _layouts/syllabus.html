@@ -1,16 +1,9 @@
 ---
 layout: default
 ---
-
-{% assign c = site.data.challenges[page.id] %}
-
 <section id="headline">
     <div class="container">
-      <h3> {{c.name}} </h3>
-      <button type="button" class="small red">
-        Due: <span class="icomoon-calendar-4"></span>
-        {{ c.due.month }} {{ c.due.day }}, {{ c.due.year}}, 11:59pm
-      </button>
+      <h3> {{page.title}} </h3>
     </div>
 </section>
 
@@ -22,13 +15,13 @@ layout: default
       </article>
     </section>
     <aside class="four columns offset-by-one sidebar">
-      <h4 class="subtitle">Challenges</h4>
+      <h4 class="subtitle">Syllabus</h4>
       <div class="listbox1">
-        <ul>
+        <!-- <ul>
           {% for c in site.data.challenges %}  
             <li><a href="{{c.url}}">{{c.name}}</a></li>
           {% endfor %}        
-        </ul>
+        </ul> -->
       </div>
     </aside>
     <!-- end-sidebar-->

@@ -48,13 +48,7 @@
           <a href="#">Projects</a>
           <ul>
             {% for c in site.data.projects %}  
-              <li class="submenu"><a href="{{c.url}}">{{c.name}}</a>
-                  <ul>
-                  {% for m in c.milestones %}
-                    <li><a href="{{ m.url }}">{{ m.name }}</a></li>
-                  {% endfor %}
-                  </ul>
-              </li>
+                    <li><a href="{{ c.url }}">{{ c.name }}</a></li>
             {% endfor %}
             </ul>
           </ul>

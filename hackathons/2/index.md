@@ -1,7 +1,7 @@
 ---
 layout: hackathon
-title: Server Access Log
 group: hackathon
+id: 2
 ---
 
 # Prerequisites

@@ -1,7 +1,7 @@
 ---
-layout: hackathon
-title: Project 1 - Make
+layout: project
 group: project
+id: 1
 ---
 
 # TBD

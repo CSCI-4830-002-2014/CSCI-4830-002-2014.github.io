@@ -1,5 +1,5 @@
 ---
-layout: challenge
+layout: syllabus
 title: Course Policy
 group: syllabus
 ---

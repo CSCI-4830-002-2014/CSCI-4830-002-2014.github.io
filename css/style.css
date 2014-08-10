@@ -87,6 +87,7 @@ article tbody tr:hover th {
 article h1 { font-size: 35px; line-height: 40px; margin-bottom: 20px; letter-spacing: -0.04em; }
 article h2 { font-size: 28px; line-height: 34px; margin-bottom: 14px; }
 article h3 { font-size: 21px; line-height: 30px; margin-bottom: 12px; }
+article h4 { font-size: 18px; line-height: 21px; margin-bottom: 10px; }
 
 article pre,
 article code {
@@ -98,6 +99,8 @@ article code {
   border-radius: 3px;
   font-size: 15px;
   overflow:scroll;
+  margin-bottom: 12px;
+  font-family: "Menlo", monospace;
 }
 
 article code { padding: 1px 5px; }

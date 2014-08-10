@@ -1,7 +1,7 @@
 ---
 layout: challenge
-title: Open Refine, Splunk (III)
 group: challenge
+id: 3
 ---
 
 ## Open Refine
