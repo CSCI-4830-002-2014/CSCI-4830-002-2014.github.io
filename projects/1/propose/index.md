@@ -11,7 +11,7 @@ In our approach to learning about Big Data, we will use a mixture of hardware an
 As an introduction to the project component of the class, we will have you each build a single sensor piece of hardware using an arduino.  
 
 Here is a picture of my prototype, which will be similar to yours:  
-![Prototype](soundproto.jpg =300x)  
+![Prototype](soundproto.jpg)  
 The yellow wire connects the sensor to the arduino, the red wire is the power source, and black the ground.
 
 You will have a choice between creating a sound sensor or a light sensor.  We will also use an embedded SD card to collect the data.  Once you've built your sensor, you will have to deploy it somewhere to collect some sample data to clean and analyze.
