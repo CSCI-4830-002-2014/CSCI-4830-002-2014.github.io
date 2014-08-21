@@ -6,15 +6,7 @@
      day: 25
      year: 2014
 
-- name: Demographics
-  url: /hackathons/1
-  location: ATLAS Lounge 
-  date:
-     month: SEP
-     day: 3
-     year: 2014   
-
-- name: Server Access Log
+- name: Access Log
   url: /hackathons/2
   location: ATLAS Lounge 
   date:

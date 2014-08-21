@@ -5,25 +5,32 @@
     day: 31
     year: 2014 
 
-- name: Make 1
-  url: /projects/1/make
+- name: Make 1-a
+  url: /projects/1/make-a
   due:
-    month: AUG
-    day: 31
+    month: SEP
+    day: 7
+    year: 2014 
+
+- name: Make 1-b
+  url: /projects/1/make-b
+  due:
+    month: SEP
+    day: 14
     year: 2014 
 
 - name: Deploy 1
   url: /projects/1/deploy
   due:
-    month: AUG
-    day: 31
+    month: SEP
+    day: 21
     year: 2014 
 
 - name: Analyze 1
   url: /projects/1/analyze
   due:
     month: AUG
-    day: 31
+    day: 28
     year: 2014 
 
 - name: Visualize 1
