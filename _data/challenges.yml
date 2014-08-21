@@ -1,5 +1,7 @@
-- name: Introduction, D3 (I)
+- name: Introduction
   url: /challenges/0
+  units: 
+    - d3_1
   summary: What is a learning challenge like? How do I do it? What do I submit?
   assigned:
      month: AUG
@@ -10,8 +12,11 @@
      day: 25
      year: 2014 
 
-- name: Splunk (I), D3 (II)
+- name: Week 1
   url: /challenges/1
+  units: 
+    - splunk_1
+    - d3_2  
   assigned:
      month: AUG
      day: 26
@@ -21,8 +26,11 @@
      day: 31
      year: 2014 
 
-- name: Bitly, Splunk (II)
+- name: Week 2
   url: /challenges/2
+  units: 
+    - splunk_2
+    - api_1
   assigned:
      month: SEP
      day: 2
@@ -32,8 +40,11 @@
      day: 7
      year: 2014 
 
-- name: Refine, Splunk (III)
+- name: Week 3
   url: /challenges/3
+  units: 
+    - refine
+    - splunk_3
   assigned:
      month: SEP
      day: 9

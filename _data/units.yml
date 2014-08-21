@@ -1,0 +1,31 @@
+d3_1:
+   name: D3 (I)
+   url: /units/d3_1
+
+d3_2:
+   name: D3 (II)
+   url: /units/d3_2
+
+splunk_1:
+   name: Splunk (I)
+   url: /units/splunk_1
+
+splunk_2:
+   name: Splunk (II)
+   url: /units/splunk_2
+
+splunk_3:
+   name: Splunk (III)
+   url: /units/splunk_2
+
+api_1:
+   name: API (I)
+   url: /units/api_1
+
+api_2:
+   name: API (II)
+   url: /units/api_2
+
+refine:
+   name: Open Refine
+   url: /units/refine
