@@ -9,7 +9,7 @@ layout: default
       <h3> {{c.name}} </h3>
       <button type="button" class="small red">
         Due: <span class="icomoon-calendar-4"></span>
-        {{ c.due.month }} {{ c.due.day }}, {{ c.due.year}}, 11:59pm
+        {{ c.due | "%d" }}, 11:59pm
       </button>
     </div>
 </section>

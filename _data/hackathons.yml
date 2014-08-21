@@ -7,25 +7,16 @@ intro:
   name: Introduction
   url: /hackathons/intro
   location: ATLAS Lounge 
-  date:
-     month: AUG
-     day: 25
-     year: 2014
+  date: 2014-08-25
 
 accesslog:
   name: Access Log
   url: /hackathons/accesslog
   location: ATLAS Lounge 
-  date:
-     month: SEP
-     day: 8
-     year: 2014 
+  date: 2014-09-08
 
 demographics:
   name: Demographics
   url: /hackathons/demographics
   location: ATLAS Lounge 
-  date:
-     month: SEP
-     day: 15
-     year: 2014
+  date: 2014-09-15

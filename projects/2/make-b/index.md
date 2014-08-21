@@ -1,7 +1,7 @@
 ---
 layout: project
 group: project
-id: propose_2
+id: make_2_a
 ---
 
 # TBD

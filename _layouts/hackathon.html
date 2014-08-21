@@ -9,7 +9,7 @@ layout: default
     <h3> {{c.name}} </h3>
       <button type="button" class="small teal">
         <span class="icomoon-calendar-4"></span>
-        {{ c.date.month }} {{ c.date.day }}, {{ c.date.year}}, 5:15pm - 7:45pm
+        {{ c.date | date: "%D" }}, 5:15pm - 7:45pm
       </button>
       <button type="button" class="small gray">
         <span class="icomoon-location-6"></span>

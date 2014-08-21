@@ -6,14 +6,38 @@ group: syllabus
 
 <h1> Hackathons </h1>
 
-{{ site.data.news['key2'].name }}
+<table>
+{% for id in site.data.hackathons.ids %}
+{% assign h = site.data.hackathons[id] %}
 
-{% for key in site.data.hackathons.keys %}
-
-{{ key }}
-
-{% assign d = site.data.hackathons[key] %}
-
-{{ d.name }}
+<tr>
+<td><a href="{{h.url}}">{{ h.name }}</a></td>
+<td>{{ h.date | date: "%D" }}</td>
+</tr>
 
 {% endfor %}
+</table>
+
+<h1> Learning Challenges & Projects </h1>
+
+<table>
+	<THEAD><tr>
+			<th>Challenge</th><th>Project</th><th>Assigned</th><th>Due</th>
+	</tr></THEAD>
+	<TBODY>
+{% for i in (0..15) %}
+{% assign c = site.data.challenges[i] %}
+
+{% assign project_id = site.data.projects.ids[i] %}
+{% assign p = site.data.projects[project_id] %}
+
+<tr>
+<td><a href="{{c.url}}">{{ c.name }}</a></td>
+<td><a href="{{p.url}}">{{ p.name }}</a></td>
+<td>{{ c.assigned | date: "%D" }}</td>
+<td>{{ c.due | date: "%D" }}</td>
+</tr>
+
+{% endfor %}
+</TBODY>
+</table>

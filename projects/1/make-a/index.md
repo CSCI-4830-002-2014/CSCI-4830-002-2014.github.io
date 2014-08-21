@@ -1,7 +1,7 @@
 ---
 layout: project
 group: project
-id: 1
+id: make_1_a
 ---
 
 # Workshop Making Session

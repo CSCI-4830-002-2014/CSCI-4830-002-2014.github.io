@@ -2,14 +2,15 @@
 layout: default
 ---
 
-{% assign c = site.data.projects[page.id] %}
+{% assign p = site.data.projects[page.id] %}
+{% assign c = site.data.challenges[p.week] %}
 
 <section id="headline">
     <div class="container">
-      <h3> {{c.name}} </h3>
-      <button type="button" class="small red">
+      <h3> {{p.name}} </h3>
+      <button type="button" class="medium red">
         Due: <span class="icomoon-calendar-4"></span>
-        {{ c.due.month }} {{ c.due.day }}, {{ c.due.year}}, 11:59pm
+        {{ c.due | date: "%D"}}, 11:59pm
       </button>
     </div>
 </section>
@@ -25,7 +26,8 @@ layout: default
       <h4 class="subtitle">Project Milestones</h4>
       <div class="listbox1">
         <ul>
-          {% for c in site.data.projects %}  
+          {% for id in site.data.projects.ids %}
+          {% assign c = site.data.projects[id] %}  
             <li><a href="{{c.url}}">{{c.name}}</a></li>
           {% endfor %}        
         </ul>

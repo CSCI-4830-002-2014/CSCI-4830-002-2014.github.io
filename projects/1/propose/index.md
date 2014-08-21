@@ -1,7 +1,7 @@
 ---
 layout: project
 group: project
-id: 0
+id: propose_1
 ---
 
 # Mini-Project Proposal

@@ -19,10 +19,7 @@
         <ul id="nav">
         <li {% if page.group == "syllabus" %} class="current" {% endif %}>
           <a href="/">Home</a>
-            <ul>              
-              <li><a href="/syllabus/grading">Grading</a></li>
-              <li><a href="/syllabus/policy">Policy</a></li>              
-          </ul>
+          {% include syllabus_links.html %}
         </li>
 
         <li {% if page.group == "challenge" %} class="current" {% endif %}>
@@ -48,7 +45,8 @@
         <li {% if page.group == "project" %} class="current" {% endif %}>
           <a href="#">Projects</a>
           <ul>
-            {% for c in site.data.projects %}  
+            {% for id in site.data.projects.ids %}  
+            {% assign c = site.data.projects[id] %}
                     <li><a href="{{ c.url }}">{{ c.name }}</a></li>
             {% endfor %}
             </ul>

@@ -10,16 +10,16 @@ group: challenge
         <div class="one columns alpha">
           <div class="blog-date-sec"> 
             <span style="font-weight:bolder;">START</span>
-            <span>{{ x.assigned.month }}</span>
-            <h3>{{ x.assigned.day }}</h3>
-            <span>{{ x.assigned.year }}</span> </div>
+            <span>{{ x.assigned | date: "%b" }}</span>
+            <h3>{{ x.assigned | date: "%d" }}</h3>
+            <span>{{ x.assigned | date: "%Y" }}</span> </div>
         </div>
         <div class="one columns alpha">
           <div class="blog-date-sec"> 
             <span style="font-weight:bolder;">DUE</span>
-            <span>{{ x.due.month }}</span>
-            <h3>{{ x.due.day }}</h3>
-            <span>{{ x.due.year }}</span> </div>
+            <span>{{ x.due | date: "%b" }}</span>
+            <h3>{{ x.due | date: "%d" }}</h3>
+            <span>{{ x.due | date: "%Y" }}</span> </div>
         </div>        
 <!--         <div class="three columns alpha"> <img src="{{x.url}}/banner.jpg" alt=""><br>
         </div> -->

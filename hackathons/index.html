@@ -10,9 +10,9 @@ group: hackathon
 <article class="blog-post">
         <div class="one columns alpha">
           <div class="blog-date-sec"> 
-            <span>{{ x.date.month }}</span>
-            <h3>{{ x.date.day }}</h3>
-            <span>{{ x.date.year }}</span> </div>
+            <span>{{ x.date | date: "%b" }}</span>
+            <h3>{{ x.date | date: "%d" }}</h3>
+            <span>{{ x.date | date: "%Y" }}</span> </div>
         </div>
 <!--         <div class="four columns alpha"> <img src="{{x.url}}/banner.jpg" alt=""><br>
         </div>

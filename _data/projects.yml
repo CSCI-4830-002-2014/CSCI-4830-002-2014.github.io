@@ -1,55 +1,97 @@
-- name: Propose 1
+ids: 
+ - overview
+ - propose_1
+ - make_1_a
+ - make_1_b
+ - deploy_1
+ - analyze_1
+ - visualize_1
+ - propose_2
+ - make_2_a
+ - make_2_b
+ - deploy_2_a
+ - deploy_2_b
+ - analyze_2
+ - break
+ - visualize_2
+ - present_2
+
+overview:
+  name: Overview
+  url: /projects/
+  week: 0
+
+propose_1:
+  name: Propose 1
   url: /projects/1/propose
-  due:
-    month: AUG
-    day: 31
-    year: 2014 
+  week: 1
 
-- name: Make 1-a
+make_1_a:
+  name: Make 1-a
   url: /projects/1/make-a
-  due:
-    month: SEP
-    day: 7
-    year: 2014 
+  week: 2
 
-- name: Make 1-b
+make_1_b:
+  name: Make 1-b
   url: /projects/1/make-b
-  due:
-    month: SEP
-    day: 14
-    year: 2014 
+  week: 3
 
-- name: Deploy 1
+deploy_1:
+  name: Deploy 1
   url: /projects/1/deploy
-  due:
-    month: SEP
-    day: 21
-    year: 2014 
+  week: 4
 
-- name: Analyze 1
+analyze_1:
+  name: Analyze 1
   url: /projects/1/analyze
-  due:
-    month: AUG
-    day: 28
-    year: 2014 
+  week: 5
 
-- name: Visualize 1
+visualize_1:
+  name: Visualize 1
   url: /projects/1/visualize      
+  week: 6
 
-- name: Propose 2
+propose_2:
+  name: Propose 2
   url: /projects/2/propose
+  week: 7
 
-- name: Make 2
-  url: /projects/2/make
+make_2_a:
+  name: Make 2-a
+  url: /projects/2/make-a
+  week: 8
 
-- name: Deploy 2
-  url: /projects/2/deploy
+make_2_b:
+  name: Make 2-b
+  url: /projects/2/make-b
+  week: 9
 
-- name: Analyze 2
+deploy_2_a:
+  name: Deploy 2-a
+  url: /projects/2/deploy-a
+  week: 10
+
+deploy_2_b:
+  name: Deploy 2-b
+  url: /projects/2/deploy-b
+  week: 11
+
+analyze_2:
+  name: Analyze 2
   url: /projects/2/analyze
+  week: 12
 
-- name: Visualize 2
+break:
+  name: Fall Break
+  url: 
+  week: 13
+
+visualize_2:
+  name: Visualize 2
   url: /projects/2/visualize     
+  week: 14
 
-- name: Present 2
+present_2:
+  name: Present 2
   url: /projects/2/present
+  week: 15  
