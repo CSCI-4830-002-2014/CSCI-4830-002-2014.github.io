@@ -4,6 +4,16 @@ group: hackathon
 id: intro
 ---
 
+# Timeline
+
+| Overview | 10 minutes |
+| In-class Learning Challenge | 30 minutes |
+| Show & Tell | 10 minutes |
+| Study Questions | 20 minutes |
+| In-class Hackathon | 40 minutes |
+| Presentation | 20 minutes |
+| Projects | 20 minutes |
+| Total | 150 minutes |
 
 # Dataset
 
@@ -19,12 +29,6 @@ Relevant indicators drawn from the World Development Indicators, reorganized acc
 
 Create visualizations to help people understand the progress made over the past 20 years toward the MDGs
 
-# Timeline
-
-| Overview | 5 minutes |
-| Hacking | 30 minutes |
-| Presentation | 15 minutes |
-
 # Prerequisites
 
 * [Introductory learning challengee](/challenges/0)
@@ -32,7 +36,7 @@ Create visualizations to help people understand the progress made over the past 
 # Requirements
 
 1. Use D3 as the data visualization tool.
-2. Use a series of cricles as the visualization (since it is the only thing you've learned so.
+2. Use a series of circles as the visualization (since it is the only thing you've learned so.
 3. Use JSFiddle as the code editor.
 4. The visualization must have some title and text commentary.
 5. The visualization must have more than two rows of circles. Each row represents a different measure.
@@ -69,11 +73,7 @@ Use the Markdown template below to create a submission document.
 
 </pre>
 
-Use JSFiddle's save function to save your code. Write down the URL (e.g., [http://jsfiddle.net/2t4hL48c/](http://jsfiddle.net/2t4hL48c/)). In the introductory learning challenge, you used [StackEdit](https://stackedit.io/), an online Markdown editor. You can use it again. Or you can use your favorite Markdown text editor. For screenshots, you can use [Imgur](http://imgur.com/) or any other online image hosting service. 
-
-Publish your submission document as a Gist, like below.
-
-![Gist](gist_example.png)
+Use JSFiddle's save function to save your code. Write down the URL (e.g., [http://jsfiddle.net/2t4hL48c/](http://jsfiddle.net/2t4hL48c/)). In the introductory learning challenge, you used Gist to write and submit a learning journal. You will again use Gist to write and submit your deliverables. You can use [Imgur](http://imgur.com/) to upload your visualization image and add links to the image to your submission document.
 
 Follow the link below to open the shared Google Sheet. Type the link to your Gist and the names of your team to this sheet.
 
