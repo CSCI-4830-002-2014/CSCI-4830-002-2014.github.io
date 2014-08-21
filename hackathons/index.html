@@ -4,7 +4,8 @@ title: Hackathons
 group: hackathon
 ---
 
-{% for x in site.data.hackathons %}
+{% for id in site.data.hackathons.ids %}
+{% assign x = site.data.hackathons[id] %}
 
 <article class="blog-post">
         <div class="one columns alpha">

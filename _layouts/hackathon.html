@@ -29,7 +29,8 @@ layout: default
       <h4 class="subtitle">Hackathons</h4>
       <div class="listbox1">
         <ul>
-          {% for c in site.data.hackathons %}  
+          {% for id in site.data.hackathons.ids %}
+          {% assign c = site.data.hackathons[id] %}  
             <li><a href="{{c.url}}">{{c.name}}</a></li>
           {% endfor %}        
         </ul>

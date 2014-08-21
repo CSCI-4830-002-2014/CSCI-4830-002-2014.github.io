@@ -38,7 +38,8 @@
         <li {% if page.group == "hackathon" %} class="current" {% endif %}>
           <a href="/hackathons">Hackathons</a>        
             <ul>
-            {% for c in site.data.hackathons %}  
+            {% for id in site.data.hackathons.ids %}  
+            {% assign c = site.data.hackathons[id] %}
               <li><a href="{{c.url}}">{{c.name}}</a></li>
             {% endfor %}
             </ul>

@@ -1,4 +1,10 @@
-- name: Introduction
+ids:
+  - intro
+  - accesslog
+  - demographics
+
+intro:
+  name: Introduction
   url: /hackathons/0
   location: ATLAS Lounge 
   date:
@@ -6,10 +12,20 @@
      day: 25
      year: 2014
 
-- name: Access Log
+accesslog:
+  name: Access Log
   url: /hackathons/2
   location: ATLAS Lounge 
   date:
      month: SEP
      day: 8
      year: 2014 
+
+demographics:
+  name: Demographics
+  url: /hackathons/3
+  location: ATLAS Lounge 
+  date:
+     month: SEP
+     day: 15
+     year: 2014

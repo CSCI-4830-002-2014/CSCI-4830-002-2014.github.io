@@ -1,0 +1,19 @@
+---
+layout: syllabus
+title: Schedule
+group: syllabus
+---
+
+<h1> Hackathons </h1>
+
+{{ site.data.news['key2'].name }}
+
+{% for key in site.data.hackathons.keys %}
+
+{{ key }}
+
+{% assign d = site.data.hackathons[key] %}
+
+{{ d.name }}
+
+{% endfor %}
