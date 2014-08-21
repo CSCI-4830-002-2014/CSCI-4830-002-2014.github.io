@@ -5,7 +5,7 @@ ids:
 
 intro:
   name: Introduction
-  url: /hackathons/0
+  url: /hackathons/intro
   location: ATLAS Lounge 
   date:
      month: AUG
@@ -14,7 +14,7 @@ intro:
 
 accesslog:
   name: Access Log
-  url: /hackathons/2
+  url: /hackathons/accesslog
   location: ATLAS Lounge 
   date:
      month: SEP
@@ -23,7 +23,7 @@ accesslog:
 
 demographics:
   name: Demographics
-  url: /hackathons/3
+  url: /hackathons/demographics
   location: ATLAS Lounge 
   date:
      month: SEP
