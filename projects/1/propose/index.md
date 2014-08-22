@@ -14,7 +14,8 @@ Here is a picture of my prototype, which will be similar to yours:
 ![Prototype](soundproto.jpg)  
 The yellow wire connects the sensor to the arduino, the red wire is the power source, and black the ground.
 
-You will have a choice between creating a sound sensor or a light sensor.  We will also use an embedded SD card to collect the data.  Once you've built your sensor, you will have to deploy it somewhere to collect some sample data to clean and analyze.
+You will have a choice between creating a sound sensor or a light sensor.  We will also use an embedded SD card to collect the data.  Once you've built your sensor, you will have to deploy it somewhere to collect some sample data to clean and analyze.  For this first project you don't need to collect much data.  Here is a sample of data I collected from a prototype I made for determining noise levels in Norlin Library.  [The left column is the average volume above silence; the right column is indexing so I know how many samples were collected each time I turned it on.]
+![Data](DataSample.png)
 
 Since we have no class on labor day, we will instead be holding workshop sessions where you'll pick up your hardware and start building your sensor. Currently the sessions are scheduled for Tuesday 9/2 2:30-4:30 PM and Wednesday 9/3 5-7PM.  You only have to attend one.  If both of these times are unable to work in your schedule, please tell one of the instructors (Tom Yeh or Mike Skirpan) BEFORE Friday 8/29 to work out receiving your hardware.
 
