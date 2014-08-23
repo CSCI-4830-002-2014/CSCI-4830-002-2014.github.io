@@ -31,12 +31,12 @@ Create visualizations to help people understand the progress made over the past 
 
 # Prerequisites
 
-* [Introductory learning challengee](/challenges/0)
+* [Introductory learning challenge](/challenges/0)
 
 # Requirements
 
 1. Use D3 as the data visualization tool.
-2. Use a series of circles as the visualization (since it is the only thing you've learned so.
+2. Use a series of circles as the visualization (since it is the only thing you've learned so far).
 3. Use JSFiddle as the code editor.
 4. The visualization must have some title and text commentary.
 5. The visualization must have more than two rows of circles. Each row represents a different measure.
@@ -86,9 +86,9 @@ Follow the link below to open the shared Google Sheet. Type the link to your Gis
 
 # Presentation
 
-After the time is up and all teams have submitted their deliverables, each team will take turn presenting the visualization the team has created. This presentation will be done in a "lightening talk" style. Each team will get only 1 minute to present. Depending on the time, not all teams may get to present. But every team should be prepared to do so when being called upon.
+After the time is up and all teams have submitted their deliverables, each team will take turns presenting the visualization the team has created. This presentation will be done in a "lightening talk" style. Each team will get only 1 minute to present. Depending on the time, not all teams may get to present. But every team should be prepared to do so when being called upon.
 
-The presentation should focus on three talk points:
+The presentation should focus on three talking points:
 
 1. What does the visualization show?
 2. Why is it shown this way?
