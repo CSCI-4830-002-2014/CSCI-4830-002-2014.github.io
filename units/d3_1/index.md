@@ -4,7 +4,7 @@ group: challenge
 id: d3_1
 ---
 
-This is an introductory learning challenge based on D3. Your challenge is to learn as much about D3 as you can from this tutorial article "[Three Little Cricles](http://bost.ocks.org/mike/circles/)" written by Mike Bostock.
+This is an introductory learning challenge based on D3. Your challenge is to learn as much about D3 as you can from this tutorial article "[Three Little Circles](http://bost.ocks.org/mike/circles/)" written by Mike Bostock.
 
 In the article, you will encounter a bunch of HTML5 code and JavaScript code. Use [JSFiddle](http://jsfiddle.net/) to try the code out. Once you visit JSFiddle, you will see places for you to copy and paste code snippets. You can hit run to see the results, like below.
 
@@ -14,7 +14,7 @@ Hint: Make sure you select the right library from the dropdown boxes under Frame
 
 # Challenges
 
-One way to show you have indeed learned a new skill is to apply that skill to a novel problem. You can make three or four blue circles just as what the tutorial article has demonstrated. That's great! But we want to challenge you to do something new.
+One way to show you have indeed learned a new skill is to apply that skill to a novel problem. You can make three or four blue circles just like the tutorial article has demonstrated. That's great! But we want to challenge you to do something new.
 
 ### Challenge 1 - Draw 10 circles.
 
