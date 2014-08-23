@@ -6,13 +6,13 @@ id: 0
 
 # Learning 
 
-A learing challenge typically consists of multiple units. Each unit will cover a particular big data tool. In this week's in-class introdutory learning challenge, there is only one unit. The tool this unit covers is D3, a super popular data visulization framework based on JavaScript. 
+A learing challenge typically consists of multiple units. Each unit will cover a particular big data tool. In this week's in-class introductory learning challenge, there is only one unit. The tool this unit covers is D3, a super popular data visulization framework based on JavaScript. 
 
 [D3 Learning Unit]({{ site.data.units['d3_1'].url}})
 
 # Journal
 
-As you are going through the tutorial article, we want you to document the process your learning by keeping a simple journal. You will use the [Markdown](http://en.wikipedia.org/wiki/Markdown) text formatting syntax to write this journal and submit it along with other materials (e.g., images, links) as a git repository to [Github](http://www.github.com).
+As you are going through the tutorial article, we want you to document your learning process by keeping a simple journal. You will use the [Markdown](http://en.wikipedia.org/wiki/Markdown) text formatting syntax to write this journal and submit it along with other materials (e.g., images, links) as a git repository to [Github](http://www.github.com).
 
 But for the purpose of this exercise, we will use [Gist](https://gist.github.com/) instead. A journal template has already been created for you as a gist, listed below.
 
@@ -39,4 +39,4 @@ We will use a Google Sheet.
 <a href="https://docs.google.com/spreadsheets/d/1sA9pBLknhCXSfb4VcLou0xI1kVXLx120KeN4kbxtZlY/edit#gid=1573071220"> Submission Spreadsheet</a>
 </span>
 
-Follow this link to this collection spreadhseet. We will also take this opporunity to take your contact information too. Please enter your name, email address, Github account id (create an account now if you don't have one already), and the URL to your gist.
+Follow this link to this collection spreadsheet. We will also take this opportunity to take your contact information too. Please enter your name, email address, Github account id (create an account now if you don't have one already), and the URL to your gist.
