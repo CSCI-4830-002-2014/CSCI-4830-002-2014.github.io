@@ -6,7 +6,7 @@ id: 1
 
 # Prerequisites
 
-* Create a [Github](http://www.github.com) account (for submitting your works).
+* Create a [Github](http://www.github.com) account (for submitting your work).
 * Create a [Disqus](http://www.disqus.com) account (for asking questions and participating in discussion about each learning topic on our course website).
 * Complete a pre-class survey (for letting the teaching staff know more about your background and learning objectives).
 
