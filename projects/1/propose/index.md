@@ -15,32 +15,20 @@ Here is a picture of my prototype, which will be similar to yours:
 The yellow wire connects the sensor to the arduino, the red wire is the power source, and black the ground.
 
 You will have a choice between creating a sound sensor or a light sensor.  We will also use an embedded SD card to collect the data.  Once you've built your sensor, you will have to deploy it somewhere to collect some sample data to clean and analyze.  For this first project you don't need to collect much data.  Here is a sample of data I collected from a prototype I made for determining noise levels in Norlin Library.  [The left column is the average volume above silence; the right column is indexing so I know how many samples were collected each time I turned it on.]
+
 ![Data](DataSample.png)
 
-Since we have no class on labor day, we will instead be holding workshop sessions where you'll pick up your hardware and start building your sensor. Currently the sessions are scheduled for Tuesday 9/2 2:30-4:30 PM and Wednesday 9/3 5-7PM.  You only have to attend one.  If both of these times are unable to work in your schedule, please tell one of the instructors (Tom Yeh or Mike Skirpan) BEFORE Friday 8/29 to work out receiving your hardware.
+## Workshop
 
-The workshop will be held in DLC 1B-10 (it's the lab on the bottom floor with all the cool toys on display).
+Since we have no class on labor day, we will instead be holding workshop sessions where you'll pick up your hardware and start building your sensor. 
+
+__Time:__ Currently the sessions are scheduled for __Tuesday 9/2 2:30-4:30 PM__ and __Wednesday 9/3 5-7PM__.  You only have to attend one.  If both of these times are unable to work in your schedule, please tell one of the instructors (Tom Yeh or Mike Skirpan) BEFORE Friday 8/29 to work out receiving your hardware.
+
+__Location:__ The location of the workshop will be announced soon.
 
 ##Proposal Submission
-Use this markdown template to submit your proposal [Due by 11:59PM 9/1]
 
-<pre>
-# Name
-[Put your name here]
+We've created a github repository containing a markdown template for your proposal.
+Create a fork of the repository and make a pull request when you are ready to submit. 
 
-# Sensor Type
-[Light or Sound Sensor]
-
-# Any prior experience?
-[Tell us whether or not you've used arduino or other physical computing artifacts prior to this]
-
-# Have you soldered before?
-[yes/no]
-
-# How will you gather test data?
-[Tell us what you'll try to sense (e.g., how much sun certain rooms get, how loud study rooms tend to be, how loud is your house, where's the best place to put your tomatoe plant, etc)]
-
-# Which workshop will you attend?
-[Tuesday 2:30-4:30 or Wednesday 5-7]
-
-</pre>
+[Project 1 - Proposal Github Repo](https://github.com/CSCI-4830-002-2014/project-1-proposal)
