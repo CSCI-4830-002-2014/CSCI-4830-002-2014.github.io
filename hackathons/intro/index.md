@@ -13,6 +13,7 @@ id: intro
 | In-class Hackathon | 40 minutes |
 | Presentation | 20 minutes |
 | Projects | 20 minutes |
+| [Pre-class Survey](https://github.com/CSCI-4830-002-2014/pre-class-survey) | 5 minutes |
 | Total | 150 minutes |
 
 # Dataset
