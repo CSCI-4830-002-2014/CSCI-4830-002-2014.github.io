@@ -6,6 +6,8 @@ id: splunk_2
 
 Total: 90 points.
 
+(This is a part of [week 2's learning challenge](/challenges/2/))
+
 Your challenge is to learn the basics about Splunk's query language. Read [Part 5](http://docs.splunk.com/Documentation/Splunk/latest/SearchTutorial/Startsearching) of the Splunk Tutorial.
 
 # Checkpoints (5 points x 4 = 20 points)
