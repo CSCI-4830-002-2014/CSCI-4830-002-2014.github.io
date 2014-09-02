@@ -21,6 +21,8 @@ If you have the time, open up the arduino IDE and look at the sketchbook.  There
 
 You will receive your hardware and a breadboard.  The primary goal of the session will be to get your circuit set up such that it is receiving data.  If there is time, we will also work on getting the SD card working and fixing up any code necessary for solid data collection.
 
+[Link to the code for arduino](https://github.com/wannabeCitizen/arduino_projects)
+
 ## After the workshop
 
 You will then be responsible for showing that you have completed the workshop, have a working prototype that collects and saves data, and a test environment you plan to use for collection.
