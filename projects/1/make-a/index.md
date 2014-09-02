@@ -30,29 +30,4 @@ You will then be responsible for showing that you have completed the workshop, h
 You must be done building your hardware no later than 11:59PM 9/7.  Your mini-project will be used the week following where your assignment will be to collect test data with your sensor.
 
 ## Submission
-Upload your arduino code to your github profile then
-use this markdown template to submit your mini-project:
-
-<pre>
-# Name
-[Put your name here]
-
-# Hardware Photo
-[insert a photo of your hardware]
-
-# Data type
-[How is your data being saved - csv, tsv, json, etc]
-
-# Data Sample
-[insert a screenshot of some saved data you collected]
-
-# GitHub Repo
-[URL here]
-
-# How fun was this? 
-[Scale 1-10; 1=no fun, 10=best class assignment ever]
-
-# How hard was it? 
-[Scale 1-10; 1=a breeze, 10=impossible to do]
-
-</pre>
+Use [this github repository](https://github.com/CSCI-4830-002-2014/project-1-make-a). Update READEME.md, where you will answer some questions and paste your arduino code.
