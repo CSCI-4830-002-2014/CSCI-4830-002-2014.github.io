@@ -27,7 +27,7 @@ You will receive your hardware and a breadboard.  The primary goal of the sessio
 
 You will then be responsible for showing that you have completed the workshop, have a working prototype that collects and saves data, and a test environment you plan to use for collection.
 
-You must be done building your hardware no later than 11:59PM 9/7.  Your mini-project will be used the week following where your assignment will be to collect test data with your sensor.
+The first submission for the mini-project will be due 9/14 (**NOT 9/7**).  This submission will require you to have a completed prototype as well as having collected some sample data.  Read below for where to find the submission.
 
 ## Submission
 Use [this github repository](https://github.com/CSCI-4830-002-2014/project-1-make-a). Update READEME.md, where you will answer some questions and paste your arduino code.
