@@ -21,7 +21,7 @@ If you have the time, open up the arduino IDE and look at the sketchbook.  There
 
 You will receive your hardware and a breadboard.  The primary goal of the session will be to get your circuit set up such that it is receiving data.  If there is time, we will also work on getting the SD card working and fixing up any code necessary for solid data collection.
 
-[Link to the code for arduino](https://github.com/wannabeCitizen/arduino_projects)
+[Link to the code for arduino](https://github.com/CSCI-4830-002-2014/project-1-make-a/blob/master/sound_sensor_p1.ino)
 
 ## After the workshop
 
