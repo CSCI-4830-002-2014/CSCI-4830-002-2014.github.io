@@ -64,5 +64,5 @@ Your team will do a 3-5 minutes presentation to the entire class about your reco
 
 # Submission
 
-Use a Github repository to submit your work. Follow [this link] to a template repository we've created for the hackathon. Fork, modify, commit, push, and make a pull request, just like what you did for your other homework submissions.
+Use a Github repository to submit your work. Follow [this link](https://github.com/CSCI-4830-002-2014/hackathon-accesslog) to find the template repository for this hackathon. Fork, modify, commit, push, and make a pull request, just like what you did for your other homework submissions.
 
