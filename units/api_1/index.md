@@ -106,3 +106,26 @@ You can use APIs to access the Splunk server running on your computer. The defau
 
 [Get contributors list with additions, deletions, and commit counts](https://developer.github.com/v3/repos/statistics/#contributors)
 ![github_stats_contributors](github_stats_contributors.png)
+
+
+# Challenge
+
+Create an issue for the [challenge-week-3 repository](https://github.com/CSCI-4830-002-2014/challenge-week-3/issues).
+
+(Reference: [Create an issue](https://developer.github.com/v3/issues/#create-an-issue))
+
+The desired outcome is that you've created an issue via Github's API for the challenge-week-3 repository. The title of the issue should be changed to include your own name. You should see something like below (but don't submit a screenshot of this).
+
+![github_issue](github_issue.png)
+
+This API requires authentication (unlike in the previous challenges). The hints are: (1) use the Basic Auth tab, (2) use POST request, and (3) according to Github's API documentation about [parameters](https://developer.github.com/v3/#parameters), for POST requests, parameters should be encoded as JSON. You will need to enter this JSON snippet somewhere via Postman's interface. 
+
+{% highlight json %}
+{
+	"title": "This is [Name]",
+	"body" : "I ate [food-name] for breakfast today."
+}
+{% endhighlight %}
+
+![github_create_issue](github_create_issue.png)
+
