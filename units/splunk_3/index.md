@@ -14,7 +14,7 @@ Get a list of events performed by yourself by typing the following URL in a web 
 
 	https://api.github.com/users/[your-github-username]/events
 
-By default, Github returns the most recent 30 events. Save the data as a file. Import the data into Splunk. Write a Splunk query to count the number of each event type. As you are experimenting, you may make mistakes and want to delete data. Find out how to do it by reading [this article](http://answers.splunk.com/answers/1484/how-do-i-delete-events). Note that you must figure out how to assign yourself the _can_delete_role first.
+By default, Github returns the most recent 30 events. Save the data as a file. Import the data into Splunk. Write a Splunk query to count the number of each event type. As you are experimenting, you may make mistakes and want to delete data. Find out how to do it by reading [this article](http://answers.splunk.com/answers/1484/how-do-i-delete-events). Note that you must figure out how to assign yourself the _can_delete_ role first.
 
 ### 1.a. How can you specify a field to extract timestamp?
 

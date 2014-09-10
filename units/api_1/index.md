@@ -20,7 +20,7 @@ The tutorial first demonstrates how to grab an account's timeline data. Chose a 
 
 ## Checkpoint 2
 
-Next, the tutorial demonstrates how to post a status update from your own account. Apply this skill to post the message _"Twitting from Postman by [your name]!"_ Show the JSON data returned by the server in Postman's GUI. It should look like below, but the _text_attribute should be replaced by your own text. Take a screenshot of your entire desktop to submit.
+Next, the tutorial demonstrates how to post a status update from your own account. Apply this skill to post the message _"Twitting from Postman by [your name]!"_ Show the JSON data returned by the server in Postman's GUI. It should look like below, but the _text_ attribute should be replaced by your own text. Take a screenshot of your entire desktop to submit.
 
 ![postman_status_update](postman_status_update.png)
 
