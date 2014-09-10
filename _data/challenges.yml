@@ -24,7 +24,7 @@
 - name: Week 3
   url: /challenges/3
   units: 
-    - refine
+    - api_1
     - splunk_3
   assigned: 2014-09-08 
   due: 2014-09-14

@@ -16,7 +16,7 @@ splunk_2:
 
 splunk_3:
    name: Splunk (III)
-   url: /units/splunk_2
+   url: /units/splunk_3
 
 api_1:
    name: API (I)
