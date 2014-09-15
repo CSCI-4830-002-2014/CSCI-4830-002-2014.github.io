@@ -1,7 +1,7 @@
 ids:
   - intro
   - accesslog
-  - demographics
+  - github
 
 intro:
   name: Introduction
@@ -18,5 +18,11 @@ accesslog:
 demographics:
   name: Demographics
   url: /hackathons/demographics
+  location: ATLAS Lounge 
+  date: 2014-09-15
+
+github:
+  name: Github
+  url: /hackathons/github
   location: ATLAS Lounge 
   date: 2014-09-15
