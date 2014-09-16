@@ -29,7 +29,7 @@ propose_1:
 make_1_a:
   name: Make 1-a
   url: /projects/1/make-a
-  week: 2
+  week: 3
 
 make_1_b:
   name: Make 1-b
