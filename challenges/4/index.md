@@ -24,9 +24,9 @@ Find an interesting data visulization about politics. Be ready to tell the class
 
 This week's learning challenge is worth 100 points.
 
-| API 2 | 35 points |
+| API 2 | 36 points |
 | Refine | 58 points |
-| Show & Tell | 7 points |
+| Show & Tell | 6 points |
 
 # Submission
 
