@@ -44,4 +44,7 @@ where N = 1 to 6. Submit both the javascript file and the result json file. You 
 
 (Reference: [Create an issue](https://developer.github.com/v3/issues/#create-an-issue))
 
+### 7. What are all the latest events related to our course's organization?
+
+Use the Aync library (i.e., map) to grab data from page 1, 2, 3 to 10 and combine the result, similar to what you did in the hackathon.
 
