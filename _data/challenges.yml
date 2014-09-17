@@ -32,6 +32,8 @@
 - name: Week 4
   url: /challenges/4
   units: 
+    - api_2
+    - refine
   assigned: 2014-09-15
   due: 2014-09-21
 
