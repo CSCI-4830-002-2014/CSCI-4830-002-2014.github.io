@@ -18,7 +18,7 @@ This week's learning challenge has TWO units.
 
 # Show and Tell
 
-Find an interesting data visulization about politics. Be ready to tell the class why it is interesting.
+Find an interesting article about quantified self.  Be ready to discuss the content and your opinions on it.
 
 # Grading
 
