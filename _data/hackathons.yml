@@ -2,6 +2,7 @@ ids:
   - intro
   - accesslog
   - github
+  - cleanup
 
 intro:
   name: Introduction
@@ -26,3 +27,9 @@ github:
   url: /hackathons/github
   location: ATLAS Lounge 
   date: 2014-09-15
+
+cleanup:
+  name: Cleanup
+  url: /hackathons/cleanup
+  location: ATLAS Lounge 
+  date: 2014-09-22
