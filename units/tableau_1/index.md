@@ -4,8 +4,13 @@ group: challenge
 id: tableau_1
 ---
 
-# Checkpoints
+(This is a part of [week 5's learning challenge](/challenges/5/))
 
+Learn [Tableau](http://www.tableausoftware.com/public/), the GUI-based visualization software that's becoming very popular for non-programmers.
+
+Download from [here](http://www.tableausoftware.com/public/download).
+
+# Checkpoints
 
 ## Checkpoint 1
 
@@ -33,7 +38,7 @@ Add this sheet to the dashboard. Add a title including your name. Take a screens
 
 ## Challenges
 
-For each challenge, look at the visualization and answer the question in your head. You do not need to write your answer down. Then, try to reproduce the visualization using Tableau. After you've succeeded, take a screenshot of your desktop to submit.
+You will use the same dataset (Olympic Athletes Dataset) to answer 20 more challenge questions. For each challenge, look at the visualization and answer the question in your head. You do not need to write your answer down. Then, try to reproduce the visualization using Tableau. After you've succeeded, take a screenshot of your desktop to submit.
 
 ### 1. What is the oldest age?
 
