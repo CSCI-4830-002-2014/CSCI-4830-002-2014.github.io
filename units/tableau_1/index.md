@@ -107,10 +107,7 @@ You will use the same dataset (Olympic Athletes Dataset) to answer 20 more chall
 ### 18. Which sport had medalists from the large number of different countries?
 ![sport_country_unique_descending](sport_country_unique_descending.png)
 
-### 19. Which sports had medalists from the large number of different countries?
-![sport_country_unique_descending](sport_country_unique_descending.png)
-
-### 20. Among the sports that gave out a lot of medals (>100), which sports were the least represented by diverse countries?
+### 19. Among the sports that gave out a lot of medals (>100), which sports were the least represented by diverse countries?
 (hint: filter, sort)
 
 ![sport_unique_countries_popular_sports](sport_unique_countries_popular_sports.png)
