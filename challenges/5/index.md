@@ -30,4 +30,5 @@ This week's learning challenge is worth 100 points.
 
 # Submission
 
+Please fill out this survey for Mike and submit it by Sunday night (it will be used to determine the contents of the class hackathon on 10/6 and get feedback for the final project): [Link to Survey](https://github.com/CSCI-4830-002-2014/project-survey)
 The link to the repository is: [https://github.com/CSCI-4830-002-2014/challenge-week-5](https://github.com/CSCI-4830-002-2014/challenge-week-5)
