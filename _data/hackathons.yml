@@ -3,6 +3,7 @@ ids:
   - accesslog
   - github
   - cleanup
+  - birdstrikes
 
 intro:
   name: Introduction
@@ -33,3 +34,9 @@ cleanup:
   url: /hackathons/cleanup
   location: ATLAS Lounge 
   date: 2014-09-22
+
+birdstrikes:
+  name: Bird Strikes
+  url: /hackathons/birdstrikes
+  location: ATLAS Lounge 
+  date: 2014-09-29
