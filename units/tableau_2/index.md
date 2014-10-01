@@ -14,7 +14,7 @@ Watch the [basic mapping](http://www.tableausoftware.com/learn/tutorials/on-dema
 
 Use this dataset (the link below) as you follow along the tutorial:
 
-| [Sample - Superstore - English (Extract)](Sample - Superstore - English (Extract).tds) |
+| [Sample - Superstore Sales Multi-language (Extract)](Sample - Superstore Sales Multi-language (Extract).tde) |
 
 You will need Tableau Desktop to be able to open this dataset file. Tableau Public doesn't allow you to open this file.
 
