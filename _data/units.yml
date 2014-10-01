@@ -34,6 +34,14 @@ tableau_1:
    name: Tableau (I)
    url: /units/tableau_1
 
+tableau_2:
+   name: Tableau (II)
+   url: /units/tableau_2
+
 analysis_1:
    name: Analysis (I)
    url: /units/analysis_1
+
+mongodb_1:
+   name: MongoDB (I)
+   url: /units/mongodb_1

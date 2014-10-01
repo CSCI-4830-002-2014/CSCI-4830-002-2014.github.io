@@ -4,6 +4,8 @@ group: challenge
 id: tableau_2
 ---
 
+(This is a part of [week 6's learning challenge](/challenges/6/))
+
 It is all about maps!
 
 Download and install [Tableau Desktop](http://www.tableausoftware.com/products/desktop). This version requires a license. The free trial period is 14 days. Students can apply for a free one-year license on [this page](http://www.tableausoftware.com/academic/students).

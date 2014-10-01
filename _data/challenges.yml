@@ -48,6 +48,8 @@
 - name: Week 6
   url: /challenges/6
   units: 
+    - tableau_2
+    - mongodb_1  
   assigned: 2014-09-29
   due: 2014-10-5
 

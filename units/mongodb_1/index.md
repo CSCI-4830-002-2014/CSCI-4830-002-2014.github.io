@@ -4,6 +4,8 @@ group: challenge
 id: mongodb_1
 ---
 
+(This is a part of [week 6's learning challenge](/challenges/6/))
+
 This unit is meant for you to get MongoDB set up on your system and get some data into it. We will dig into MongoDB deeper over the following weeks.
 
 Download Link:
@@ -55,18 +57,18 @@ Modify the script to retrieve the repositores associated with our course and sto
 
 [https://api.github.com/orgs/CSCI-4830-002-2014/repos](https://api.github.com/orgs/CSCI-4830-002-2014/repos)
 
-Take a screenshot of your terminal output and submit. Also submit the code.
+Take a screenshot of your terminal output and submit. Also submit the code (mongodb1.js).
 
 ### 2. Course events (one page)
 
-Write a script to retrieve the first page of events associated with our course and store the data in mongodb. Also submit the code.
+Write a script to retrieve the first page of events associated with our course and store the data in mongodb. Also submit the code (mongodb2.js).
 
 [https://api.github.com/orgs/CSCI-4830-002-2014/events](https://api.github.com/orgs/CSCI-4830-002-2014/events)
 
-Modify console.log() to print out something meaningful. Take a screenshot of your terminal output and submit. Also submit the code.
+Modify console.log() to print out something meaningful. Take a screenshot of your terminal output and submit. Also submit the code (mongodb3.js).
 
 ### 3. Course events (ten pages)
 
 Write a script to retrieve ten page of events associated with our course and store the data in mongodb. You need to somehow incorporte the script you wrote for [https://github.com/CSCI-4830-002-2014/challenge-week-4/blob/master/github7.js](https://github.com/CSCI-4830-002-2014/challenge-week-4/blob/master/github7.js).
 
-Modify console.log() to print out something meaningful. Take a screenshot of your terminal output and submit. Also submit the code.
+Modify console.log() to print out something meaningful. Take a screenshot of your terminal output and submit. Also submit the code (mongodb4.js).
