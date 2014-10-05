@@ -4,6 +4,7 @@ ids:
   - github
   - cleanup
   - birdstrikes
+  - datamethods
 
 intro:
   name: Introduction
@@ -40,3 +41,9 @@ birdstrikes:
   url: /hackathons/birdstrikes
   location: ATLAS Lounge 
   date: 2014-09-29
+
+datamethods:
+  name: Data Methods and Analysis
+  url: /hackathons/datamethods
+  location: ATLAS Lounge and Lobby
+  date: 2014-10-06
