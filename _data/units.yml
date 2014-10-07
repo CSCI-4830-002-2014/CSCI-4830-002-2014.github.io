@@ -45,3 +45,7 @@ analysis_1:
 mongodb_1:
    name: MongoDB (I)
    url: /units/mongodb_1
+
+gdelt_1:
+   name: GDELT (I)
+   url: /units/gdelt_1
