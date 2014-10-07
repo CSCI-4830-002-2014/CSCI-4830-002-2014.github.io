@@ -56,6 +56,7 @@
 - name: Week 7
   url: /challenges/7
   units: 
+    - gdelt_1  
   assigned: 2014-10-6
   due: 2014-10-12
 
