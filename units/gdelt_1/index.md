@@ -16,7 +16,11 @@ As you follow along the tutorial, you will create a series of visulizations and 
 
 Download yesterday’s data set from the [GDELT raw data site](http://data.gdeltproject.org/events/index.html). The file names are in the format YYYYMMDD.export.CSV.zip where YYYY is the four digit year, MM is the two digit month, and DD is the two digit day. Unzip the file and examine the first few lines of the CSV using the head tool.
 
-If you’re running Linux or OS X this tool is already installed and available from your Terminal.app or shell. If you’re on Windows, install [CoreUtils](http://gnuwin32.sourceforge.net/packages/coreutils.htm) for Windows. You’ll need to use the “-n” flag on the head command to specify how many lines you want it to display. Take a screenshot and submit.
+If you’re running Linux or OS X this tool is already installed and available from your Terminal.app or shell. If you’re on Windows, install [CoreUtils](http://gnuwin32.sourceforge.net/packages/coreutils.htm) for Windows. You’ll need to use the “-n” flag on the head command to specify how many lines you want it to display. You'll notice in your output that there are no headers in this CSV.
+
+Download the headers [here](http://gdeltproject.org/data/lookups/CSV.header.dailyupdates.txt) and save them in a file called headers.csv. Either copy and paste this line into the top of file using a text editor, use cat, or sed. [This article](https://www.safaribooksonline.com/library/view/bash-cookbook/0596526784/ch17s13.html) shows you how to do that.
+
+Rerun the head command from above and take a screenshot and submit. You should now have the header you need in your file.
 
 ![headn1](headn1.png)
 
