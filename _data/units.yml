@@ -6,6 +6,10 @@ d3_2:
    name: D3 (II)
    url: /units/d3_2
 
+d3_3:
+   name: D3 (III)
+   url: /units/d3_3
+
 splunk_1:
    name: Splunk (I)
    url: /units/splunk_1

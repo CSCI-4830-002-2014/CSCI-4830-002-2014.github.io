@@ -163,6 +163,8 @@ Hint: You need to modify
 	.attr("height", 20)
 
 
+Submit a screenshot.
+
 ### 2.b. Represent quadrant using an inner square
 
 ![custom_quarant_square](custom_quarant_square.png)
@@ -194,6 +196,8 @@ Hint: Add and modify these lines
 
 Remember, x and y are with respect to a local coordinate system whose origin is the upper-left corner of each red square.
 
+Submit a screenshot.
+
 ### 2.c. Represent quadrant using a circle
 
 ![custom_quadrant_circle](custom_quadrant_circle.png)
@@ -220,6 +224,7 @@ Hint: Replace the code in 2.b with these lines
         })                
       .attr("fill", "blue");    
 
+Submit a screenshot.
 
 ### 2.d. Represent energy using a bar
 
@@ -242,6 +247,8 @@ Hint: Add and modify these lines
         })                
       .attr("fill", "black");   
 
+Submit a screenshot.
+
 ### 2.e. Represent angle and distance using another circle
 
 ![custom_small_circle](custom_small_circle.png)
@@ -261,6 +268,8 @@ Hint: Add and modify these lines
 	    .attr("fill", "skyblue"); 
 
 You will need to use _Math.cos()_ and _Math.sin()_ to calculate the location of the light blue circle given _d.angle_ and _d.distance_, and an offset, which is the center of the "quadrant" circle.
+
+Submit a screenshot.
 
 ### 2.f. Connect two circles with a straight line
 
@@ -284,6 +293,8 @@ Hint: Add and modify these lines
 		.attr("stroke-width", 2)
 		.attr("stroke", "black");
 
+
+Submit a screenshot. Also submit the final D3 code.
 
 ## Challenge 3 - Implement Hand-drawn Visualizations
 
