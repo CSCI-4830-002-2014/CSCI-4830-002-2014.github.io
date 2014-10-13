@@ -5,6 +5,7 @@ ids:
   - cleanup
   - birdstrikes
   - datamethods
+  - gdelt
 
 intro:
   name: Introduction
@@ -47,3 +48,9 @@ datamethods:
   url: /hackathons/datamethods
   location: ATLAS Lounge and Lobby
   date: 2014-10-06
+
+gdelt:
+  name: GDELT 
+  url: /hackathons/gdelt
+  location: ATLAS Lounge
+  date: 2014-10-13
