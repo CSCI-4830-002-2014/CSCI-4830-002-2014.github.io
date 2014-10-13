@@ -10,18 +10,10 @@ This week, you will participate in a study of a mobile app. The study will take 
 
 # Timeslots
 
-Throughout the weeks, there are ten 30-minute slots available. Each slot can accomodate 3-4 students. Please sign up soon before slots run out.
+Throughout the weeks, there are elevent 30-minute slots available. Each slot can accomodate 3-4 students. Please sign up soon before slots run out.
 
-|  | Date | Time |
-| Slot 1 |  | |
-| Slot 2 |  | |
-| Slot 3 |  | |
-| Slot 4 |  | |
-| Slot 5 |  | |
-| Slot 6 |  | |
-| Slot 7 |  | |
-| Slot 8 |  | |
-| Slot 9 |  | |
-| Slot 10 |  | |
+Follow the link below to go to signup sheet and enter your name.
+
+[Sign up sheet on Google Drive](https://docs.google.com/document/d/1BhoJHKst-QuAVznHmRRCH93yqtryA7xOgjdyNqThpQc/edit)
 
 
