@@ -6,7 +6,7 @@ id: 8
 
 # Units
 
-This week's learning challenge has ONE unit.
+This week's learning challenge has TWO unit.
 
 {% for unit_key in site.data.challenges[8].units %}
 
@@ -24,8 +24,9 @@ Find an interesting public display of big data visualization. Explain the motiva
 
 This week's learning challenge is worth 100 points.
 
-| D3 III  | 94 points |
-| Show & Tell | 6 points |
+| Machine Learning I | 15 points |
+| D3 III  | 80 points |
+| Show & Tell |  5 points |
 
 # Submission
 

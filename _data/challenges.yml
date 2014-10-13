@@ -63,6 +63,7 @@
 - name: Week 8
   url: /challenges/8
   units: 
+    - ml_1
     - d3_3
   assigned: 2014-10-13
   due: 2014-10-19

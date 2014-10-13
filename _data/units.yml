@@ -53,3 +53,7 @@ mongodb_1:
 gdelt_1:
    name: GDELT (I)
    url: /units/gdelt_1
+
+ml_1:
+   name: Machine Learning (I)
+   url: /units/ml_1   
