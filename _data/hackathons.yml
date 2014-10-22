@@ -6,6 +6,7 @@ ids:
   - birdstrikes
   - datamethods
   - gdelt
+  - worldbank
 
 intro:
   name: Introduction
@@ -54,3 +55,9 @@ gdelt:
   url: /hackathons/gdelt
   location: ATLAS Lounge
   date: 2014-10-13
+
+worldbank:
+  name: World Bank 
+  url: /hackathons/worldbank
+  location: ATLAS Lobby
+  date: 2014-10-22
