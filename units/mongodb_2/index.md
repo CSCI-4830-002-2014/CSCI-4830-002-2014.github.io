@@ -1,74 +1,80 @@
 ---
 layout: unit
 group: challenge
-id: mongodb_1
+id: mongodb_2
 ---
 
-(This is a part of [week 6's learning challenge](/challenges/6/))
-
-This unit is meant for you to get MongoDB set up on your system and get some data into it. We will dig into MongoDB deeper over the following weeks.
-
-Download Link:
-
-[https://www.mongodb.org/downloads](https://www.mongodb.org/downloads)
+This unit is meant for you to practice making simple queries to a MongoDB server. It will build upon the Course Events data you collected and added to a MongoDB server few weeks ago.
 
 # Checkpoints
 
-## Checkpoint 1: Try It Out
+# Checkpoint 1: Review
 
-MongoDB has a nice interactive tutorial online. The location is [http://try.mongodb.org/](http://try.mongodb.org/). Give it a try. Follow along. During the last several steps, replace the name "Johny Cash" with your own name. At the end, run _db.users.find()_. Take a screenshot of the results and submit.
+Review what you did for Challenge 3 in the [previous MongoDB unit](/units/mongodb_1/). Get your script to run again. If you script wasn't really not running properly last time, try to fix your script. You are allowed to look at your classmates' successful submissions and learn from them.
 
-## Checkpoint 2: Getting Started
+Submit your code.
 
-Read these two short articles in MongoDB's official documentation:
+# Checkpoint 2: Count
 
-* [Getting Started](http://docs.mongodb.org/manual/tutorial/getting-started/)
-* [Generate Test Data](http://docs.mongodb.org/manual/tutorial/generate-test-data/)
+Suppose you name your collection _course_events_. Open the MongoDB command line interface. After you've successfully run the data collection script. Run this command
 
-You will first need to get MongoDB installed on your machine. Show that you can run
+	> db.course_events.count();
 
-	db.testData.find().limit(3)
-
-Take a screenshot and submit.
-
-## Checkpoint 3: MongoDB + NodeJS
-
-The objective is to learn how to use MongoDB in a NodeJS program. Then we can do all the cool things connecting MongoDB to various APIs to import data, an Express web server to serve data, or to D3 to visualize data ...etc. But first, get the NodeJS driver set up on your machine.
-
-The official MongoDB driver for NodJS is described in the article [Node.js MongoDB Driver](http://docs.mongodb.org/ecosystem/drivers/node-js/) in the documentation. The Gibhub repo of this driver is: [https://github.com/mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native).
-
-Install this driver using npm. Get the simple example the [Introduction](https://github.com/mongodb/node-mongodb-native#introduction) section to work on your machine. Take a screenshot and submit.
-
-## Checkpoint 4: MongoDB + NodeJS + Github API
-
-This sample script shows how you can grab data from the Github API (via Restler) and insert the data into MongoDB.
-
-{% gist doubleshow/12ad9561203e6771bd2d %}
-
-Get this script to work on your machine. Take a screenshot and submit.
+It should return the count of the events stored in the database. Take a screenshot of your terminal output and submit.
 
 # Challenges
 
-For all the challenges, you should be able to build on the sample script above.
+Write MongoDB queries to answer the following questions. For each question, a screenshot is provided to give you an idea what the query and the expected output should look like. Some portions of the query are blanked out. Your challenge is to figure out how to fill in the blanks. Find documentation or tutorials on your own.
 
-### 1. Course repos
+## Challenge 1: Find, FindOne, $in, $gt
 
-Modify the script to retrieve the repositores associated with our course and store the data in mongodb.
+### 1. What is an example of an event associated with a user (doubleshow)?
 
-[https://api.github.com/orgs/CSCI-4830-002-2014/repos](https://api.github.com/orgs/CSCI-4830-002-2014/repos)
+![one](one.png)
 
-Take a screenshot of your terminal output and submit. Also submit the code (mongodb1.js).
+### 2. What is an example of an event associated with a user (doubleshow), paying attention only to the _actor_ field?
 
-### 2. Course events (one page)
+![actor](actor.png)
 
-Write a script to retrieve the first page of events associated with our course and store the data in mongodb. Also submit the code (mongodb2.js).
+### 3. When were the events related to these two users (doubleshow, chrisbopp)?
 
-[https://api.github.com/orgs/CSCI-4830-002-2014/events](https://api.github.com/orgs/CSCI-4830-002-2014/events)
+![two-people](two-people.png)
 
-Modify console.log() to print out something meaningful. Take a screenshot of your terminal output and submit. Also submit the code (mongodb3.js).
+### 4. What does a push event look like?
 
-### 3. Course events (ten pages)
+![push-event](push-event.png)
 
-Write a script to retrieve ten page of events associated with our course and store the data in mongodb. You need to somehow incorporte the script you wrote for [https://github.com/CSCI-4830-002-2014/challenge-week-4/blob/master/github7.js](https://github.com/CSCI-4830-002-2014/challenge-week-4/blob/master/github7.js).
+### 5. Who pushed commits?
 
-Modify console.log() to print out something meaningful. Take a screenshot of your terminal output and submit. Also submit the code (mongodb4.js).
+![push-commits](push-commits.png)
+
+### 6. What does the payload of an issues event look like?
+
+![issues-event](issues-event.png)
+
+### 7. Who created issues?
+
+![who-issues](who-issues.png)
+
+### 8. What issues had been closed?
+
+![closed-issues](closed-issues.png)
+
+### 9. Whose issues are still open?
+
+![who-opened-issues](who-opened-issues.png)
+
+### 10. Whose issues have been commented?
+
+![who-issues-commented](who-issues-commented.png)
+
+## Challenge 2: Your own questions
+
+### 1. Your First Question
+
+Pose a question. Write a MongoDB query to answer it.
+
+### 2. Your Second Question
+
+Pose a question. Write a MongoDB query to answer it.
+

@@ -10,6 +10,10 @@ d3_3:
    name: D3 (III)
    url: /units/d3_3
 
+d3_4:
+   name: D3 (IV)
+   url: /units/d3_4
+
 splunk_1:
    name: Splunk (I)
    url: /units/splunk_1
@@ -49,6 +53,10 @@ analysis_1:
 mongodb_1:
    name: MongoDB (I)
    url: /units/mongodb_1
+
+mongodb_2:
+   name: MongoDB (II)
+   url: /units/mongodb_2
 
 gdelt_1:
    name: GDELT (I)

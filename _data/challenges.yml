@@ -71,6 +71,8 @@
 - name: Week 9
   url: /challenges/9
   units: 
+    - d3_4
+    - mongodb_2
   assigned: 2014-10-20
   due: 2014-10-26
 
