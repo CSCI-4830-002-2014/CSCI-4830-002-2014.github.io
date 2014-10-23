@@ -1,3 +1,9 @@
+---
+layout: project
+group: project
+id: propose_2
+---
+
 # Final Project Proposal
 
 Use this template to submit your project proposal and we will vote on them next week to decide 4 to implement in the final project.  Remember this project will be a single feature in a multi-feature exhibit for the ATLAS Lobby.
