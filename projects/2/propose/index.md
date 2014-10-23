@@ -4,6 +4,10 @@ group: project
 id: propose_2
 ---
 
+Go to this repo for actual submission: https://github.com/CSCI-4830-002-2014/project_proposal
+
+However, here is the template all students should use for submitting their final project proposal
+
 # Final Project Proposal
 
 Use this template to submit your project proposal and we will vote on them next week to decide 4 to implement in the final project.  Remember this project will be a single feature in a multi-feature exhibit for the ATLAS Lobby.
