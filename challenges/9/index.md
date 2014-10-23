@@ -27,9 +27,9 @@ Find an interesting article discussing the use of machine learning in dealing wi
 
 This week's learning challenge is worth 100 points.
 
-| MongoDB II | TBD points |
-| D3 IV  | TBD points |
-| Show & Tell |  TBD points |
+| MongoDB II | 68 points |
+| D3 IV  | 24 points |
+| Show & Tell |  8 points |
 
 # Submission
 

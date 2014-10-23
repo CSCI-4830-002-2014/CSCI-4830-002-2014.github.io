@@ -24,10 +24,12 @@ After you are able to recpliate 9-12, take a screenshot and submit. It must be t
 
 After you are able to recpliate 9-16, take a screenshot and submit. It must be the result from your own code. Submit your D3 code too.
 
+
+__IMPORTANT__: Given a shorter week, we've decided to move checkpoints to 5 - 8 to next week's challenges. But if you feel comfortable with your time, you can feel free to go ahead and complete the rest (less work next week).
+
 ## Checkpoint 5
 
 After you are able to recpliate 9-21, take a screenshot and submit. It must be the result from your own code. Submit your D3 code too.
-
 
 ## Checkpoint 6
 
@@ -70,6 +72,6 @@ Add a black horizontal bar protuding out from the right side of symbol. Manually
 
 ## Challenge 3
 
-Now, turn your attention to the D3 code. Add code to your solution to 2.b to implement this new visual feature to represent the _energy_ attribute of each data point. Submit a screenshot like below to show that you got it.
+Now, turn your attention to the D3 code. Add code to your solution to 2.b to implement this new visual feature to represent the _energy_ attribute of each data point. Submit a screenshot like below to show that you got it. Submit the D3 code too.
 
 ![3-screenshot](3-screenshot.png)
