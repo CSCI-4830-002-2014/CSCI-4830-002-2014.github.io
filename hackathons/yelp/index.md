@@ -6,7 +6,7 @@ id: yelp
 
 # Timeline
 
-| Show & Tell | 20 minutes |
+| Show & Tell | 10 minutes |
 | Project | 10 minutes |
 | Hackathon | 110 minutes |
 | Presentation | 10 minutes |
@@ -14,11 +14,9 @@ id: yelp
 
 # Dataset
 
-| Yelp |
+| [Yelp Data Challenge](http://www.yelp.com/dataset_challenge)  |
 
-Checkout the repository. You will find the dataset under _data/_.
-
-Source: [Yelp Data Challenge](http://www.yelp.com/dataset_challenge) 
+Click the big red download button to start downloading.
 
 # Repository
 
@@ -26,7 +24,7 @@ Source: [Yelp Data Challenge](http://www.yelp.com/dataset_challenge)
 
 # Objectives
 
-1. Ingest Yelp data into MongoDB
+1. Ingest Yelp data into a MongoDB database hosted on MongoLab [https://mongolab.com/]
 2. Query the database to ask interesting questions
 2. Serve results of interesting queries using express.js
 3. Create D3 visualization of the result of interesting queries
@@ -41,7 +39,7 @@ The class will be divided into four teams. Team assignment will be facilitated b
 
 # Objective 1: Ingest
 
-Download Yelp data, which has five datasets: business, tip, user, checkin and review, Use MongoLab to create a MongoDB database to store the data. The free tier of MongoLab provides 500MB. It is sufficient for storing the business", tip, user, and checkin (not review). Create four collections. 
+Download Yelp data, which has five datasets: business, tip, user, checkin and review, Use [MongoLab](https://mongolab.com/) to create a MongoDB database to store the data. The free tier of MongoLab provides 500MB. It is sufficient for storing the business", tip, user, and checkin (not review). Create four collections. 
 
 Ingest data into your database. The "tools" tab of MongoLab's control panel provides some tip on how to do this.
 
@@ -69,7 +67,7 @@ After questions are posted, work as a team to tackle the questions raised by oth
 
 # Objective 3: Serve
 
-Write a simple web serve to serve the results of interesting queries. Your are provided with skeleton code as an example you can build upon. Clone the hackathon repository. Get the server code to run on a localhost. __You will need to change the database link.__ Open a browser and point it to http://localhost:3000. You want to be able to see something like this:
+Write a simple web serve to serve the results of interesting queries. Your are provided with skeleton code as an example you can build upon. Clone the hackathon repository. Get the server code to run on a localhost. __You will need to enter the username, password, and the url to access the database on MongoLab.__ Open a browser and point it to http://localhost:3000. You want to be able to see something like this:
 
 ![d3_skeleton_index](d3_skeleton_index.png)
 
@@ -104,9 +102,9 @@ As a warm-up exercise, try to display ALL businesses in Middleton. Figure out wh
 
 ![d3_middleton](d3_middleton.png)
 
-Design a custom visualization for the interesting query you've picked. Draw a sketch first. Implement the visualization by modifying _d3/custom.html_.
+Design a custom visualization for the interesting query you've picked. Draw a sketch first. Implement the visualization by modifying _views/custom.html_.
 
-When you are done, submit (1) a photo of your hand-drawn sketch, (2) committed changes to _app.js_ and _d3/custom.html_, and (3) a screenshot of the visualization shown in a web browser.
+When you are done, commit your changes. Then, in the template (README.md), submit (1) a photo of your hand-drawn sketch, and (2) a screenshot of the visualization shown in a web browser.
 
 
 
