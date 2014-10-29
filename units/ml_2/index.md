@@ -23,18 +23,18 @@ All the other columns are from various sensors.
 
 The first challenge is to use Tableau to answer some basic questions. For each question, take a screenshot of the entire Tableau interface and submit.
 
-### 1. What is the distribution of the Pitch (Degrees) values?
+### a. What is the distribution of the Pitch (Degrees) values?
 
 ![pitch](pitch.png)
 
-### 2. What do the sensor reading patterns differen across individual students in terms of Pitch (Degrees)?
+### b. What do the sensor reading patterns differen across individual students in terms of Pitch (Degrees)?
 ![pitch_students](pitch_students.png)
 
-### 3. Is there a significant difference between the two touch types (TOUCH LABEL) in terms of the average Pitch (Degrees)?
+### c. Is there a significant difference between the two touch types (TOUCH LABEL) in terms of the average Pitch (Degrees)?
 
 ![avg_pitch](avg_pitch.png)
 
-### 4. How many unique touch events did students have?
+### d. How many unique touch events did students have?
 
 ![student_touch](student_touch.png)
 
