@@ -56,10 +56,3 @@ Using aggregation, how much did Belgium give total by year?
 
 ![5](5.png)
 
-## Challenge 6
-
-Map-reduce is a data processing paradigm for condensing large volumes of data into useful aggregated results. For map-reduce operations, MongoDB provides the mapReduce database command. Review this [page](http://docs.mongodb.org/manual/core/map-reduce/) for more information.
-
-Using map-reduce, what is the min and max amount of aid for each donor? Submit your code as well as a screenshot of the output.
-
-![6](6.png)

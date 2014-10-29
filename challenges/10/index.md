@@ -24,10 +24,10 @@ Find an interesting D3 visualization and read through the code. In the beginning
 
 This week's learning challenge is worth 100 points.
 
-| MongoDB III | TBD points |
-| D3 V  | TBD points |
-| ML II  | TBD points |
-| Show & Tell |  TBD points |
+| MongoDB III | 29 points |
+| D3 V  | 45 points |
+| ML II  | 20 points |
+| Show & Tell |  6 points |
 
 # Submission
 
