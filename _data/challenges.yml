@@ -79,6 +79,9 @@
 - name: Week 10
   url: /challenges/10
   units: 
+    - mongodb_3
+    - ml_2
+    - d3_5
   assigned: 2014-10-20
   due: 2014-10-26
 
