@@ -6,7 +6,7 @@ id: ml_2
 
 A couple weeks ago, each of you participated in data collection and now the data is ready to analyze.
 
-| [raw_touch_data.xls](raw_touch_data.xls) |
+| [raw_touch_data.xls.zip](raw_touch_data.xls.zip) |
 
 Here are some important columns:
 
