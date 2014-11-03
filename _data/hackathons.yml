@@ -8,6 +8,7 @@ ids:
   - gdelt
   - worldbank
   - yelp  
+  - internationalaid
 
 intro:
   name: Introduction
@@ -68,3 +69,9 @@ yelp:
   url: /hackathons/yelp
   location: ATLAS Lounge
   date: 2014-10-27
+
+internationalaid:
+  name: International Aid
+  url: /hackathons/internationalaid
+  location: Impact Hub Boulder
+  date: 2014-11-3
