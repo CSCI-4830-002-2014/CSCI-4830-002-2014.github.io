@@ -51,6 +51,7 @@ In the International Development community, there has been much debate about the
 * [Week 7 Learning Challenge](/challenges/7)
 * [MongoDB Unit II](/units/mongodb_2/)
 * [MongoDB Unit III](/units/mongodb_3/)
+* [GDELT Unit I](/units/gdelt_1/)
 
 # Team
 
@@ -62,13 +63,19 @@ Aggregate aid data by country over the year 2013. Identify two [developing count
 
 # Objective 2
 
-Once you have picked your two countries, look at the aid disbursements in terms of the end date. Based upon these end dates, come up with what your team thinks is a good time range that will show the before & after events in the GDELT data set. One possible method of doing this analysis is by constructing a quick histogram of the dates in Tableau. You may need to pick certain aid projects to get a more defined before & after date. Once you decide on your time range, download from GDELT, merge the data, and import into MongoDB as a seperate collection for analysis.
+Once you have picked your two countries, look at the aid disbursements in terms of the end date. Based upon these end dates, come up with what your team thinks is a good time range that will show the before & after events in the GDELT data set. One possible method of doing this analysis is by constructing a quick histogram of the dates in Tableau. You may need to pick certain aid projects to get a more defined before & after date. Once you decide on your time range, use the procedure covered in the [GDELT unit](/units/gdelt_1/) to download data from GDELT, merge, and import into MongoDB as a seperate collection for analysis.
 
 Analyze the events that occurred within that country before and after aid and identify relevant trends. Visualize these trends in Tableau or D3.
 
 # Objective 3
 
-Based on gaps that you see in your analysis, find some data sets online that could help with your analysis. If you have time, dig into that data set to see if it can answer some of your remaining questions.
+Based on gaps that you see in your analysis, find some data sets online that could help with your analysis. If you have time, dig into that data set to see if it can answer some of your remaining questions. Some places you can start are:
+
+* [http://data.worldbank.org](http://data.worldbank.org)
+* [http://data.un.org](http://data.un.org)
+* [http://www.usaid.gov/data](http://www.usaid.gov/data)
+* [http://opendataforafrica.org](http://opendataforafrica.org)
+* [Google](http://www.google.com)!
 
 # Analysis Questions
 
