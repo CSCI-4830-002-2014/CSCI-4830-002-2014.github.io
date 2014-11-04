@@ -81,3 +81,7 @@ ml_2:
 ml_3:
    name: Machine Learning (III)
    url: /units/ml_3
+
+graph_1:
+   name: Graph database (I)
+   url: /units/graph_1
