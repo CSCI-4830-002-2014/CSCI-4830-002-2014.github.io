@@ -18,16 +18,16 @@ This week's learning challenge has FOUR unit. Don't panic! Each unit is relative
 
 # Show and Tell
 
-Find an interesting D3 visualization and read through the code. In the beginning of the semester, you probably had no idea how the code works. Now, you may understand a good portion of the code. What do you still not understand? Write down TWO D3 features you'd like to learn next.
+No show and tell homework this week!
 
 # Grading
 
 This week's learning challenge is worth 100 points.
 
-| Graph Database I | TBD points|
-| D3 VI  | TBD points |
-| ML III  | TBD points |
-| Show & Tell |  TBD points |
+| Graph Database I | 15 points|
+| MongoDB III | 20 points |
+| ML III  | 30 points |
+| D3 VI  | 35 points |
 
 # Submission
 
