@@ -38,7 +38,7 @@ This dataset contains 500K+ records of the "quantification efforts" carried out 
 7. latitude
 8. longitude
 9. quantifier id
-10. quantifier initial
+10. quantifier initials
 
 Before importing, first write a script to covert each row into a JSON object.
 
@@ -51,7 +51,7 @@ conver it to
 {% highlight json %}
 
 	{"visit_id" : 1,
-     "contry" : "IN",
+     "country" : "IN",
      "cluster_id" : 10,
      "location" : {"id": 8,
      			   "name" : "Munusamy",
@@ -60,7 +60,7 @@ conver it to
      			   "coordinates" : [12.6907000000,79.3963000000]
      			   },
      "quantifier" : {"id": 239,
-                     "initial" : "DHAN"}
+                     "initials" : "DHAN"}
     }
 {% endhighlight %}
 
