@@ -88,6 +88,10 @@
 - name: Week 11
   url: /challenges/11
   units: 
+    - graph_1
+    - mongodb_4
+    - ml_3
+    - d3_6
   assigned: 2014-11-3
   due: 2014-11-9
 
