@@ -71,8 +71,10 @@ Run count() to show that you've successfully imported all the data. Run findOne(
 
 ## Challenge 4
 
-| [eBird Small (1K records)](https://drive.google.com/open?id=0B3vCLsDNSSvTeUpzTndpU1U2NUE&authuser=0)| Use this for development and debugging |
-| [eBird Large (1M records)](https://drive.google.com/open?id=0B3vCLsDNSSvTMFZyMTYtcDgyUm8&authuser=0)| Use this for after your script is working |
+
+
+| [eBird Small (1K records)](https://drive.google.com/file/d/0B3vCLsDNSSvTeUpzTndpU1U2NUE/view?usp=sharing)| Use this for development and debugging |
+| [eBird Large (1M records)](https://drive.google.com/file/d/0B3vCLsDNSSvTMFZyMTYtcDgyUm8/view?usp=sharing)| Use this for after your script is working |
 
 [eBird](http://ebird.org/) is one of the largest online citizen science endeavor that invites people from all over the world to report presence or absence of species, as well as bird abundance.
 
