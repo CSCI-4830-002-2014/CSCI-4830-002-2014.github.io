@@ -9,6 +9,7 @@ ids:
   - worldbank
   - yelp  
   - internationalaid
+  - d3map
 
 intro:
   name: Introduction
@@ -75,3 +76,9 @@ internationalaid:
   url: /hackathons/internationalaid
   location: Impact Hub Boulder
   date: 2014-11-3
+
+d3map:
+  name: D3 Map
+  url: /hackathons/d3map
+  location: ATLAS Lounge
+  date: 2014-11-10
