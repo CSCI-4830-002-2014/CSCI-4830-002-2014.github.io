@@ -24,7 +24,7 @@ No show and tell this week (we'll be busy!)
 
 # Grading 
 
-This assignment is worth 100 points.
+This assignment is worth 100 points. (50 points for each unit)
 
 # Submission
 

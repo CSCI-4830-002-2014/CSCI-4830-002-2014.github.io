@@ -8,6 +8,8 @@ This is going to be a preparation for our upcoming hackathon which will work wit
 
 # Challenges
 
+(Challenge 2 is worth 10 points, but all the rest are worth 8)
+
 ## Challenge 1
 
 Download the Weather Data and put it into Mongo
@@ -36,13 +38,17 @@ Answer the following questions:
 
 Submit your query and answer for each of these questions
 
-## Challenge 7 [OPTIONAL]
+## Challenge 7 [OPTIONAL] (10 bonus points)
 
 If you're feeling ambitious and want to learn a little bit about Natural Language Processing, try to answer the following question:
 
 * What are the 5 most used 2-gram during this period?
 
-HINT: an N-gram finds clusters words of N words that are grouped together and counts the frequency of these clusters.  
+HINT: N-grams chunk up sentences into groups of N words.  So, for example, if we are looking
+at the 2-grams of the sentence 'hello how are you', we would be
+analyzing the tuples (hello, how), (how, are), (are, you).  This makes
+it so that any analysis we would have done with the singular words are
+now pegged to the context in which the words are used.
 
 You can use [this JavaScript Library](https://github.com/NaturalNode/natural) to complete this.  
 

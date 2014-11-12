@@ -7,6 +7,7 @@ id: reddit_data
 We are going to start with a simple walk-through using the Reddit Dataset
 
 # Challenges
+(each challenge is worth 5 points)
 
 ## Challenge 1
 
@@ -37,11 +38,19 @@ Submit a code snippet and an answer to this question
 Micha answered this question using a [Jaccard Distance](http://www.google.com/url?q=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJaccard_index&sa=D&sntz=1&usg=AFQjCNEVx641Q05H4TsuVpL894sPoVEsBQ), which is a measure of how similar two sets are.
 [Link to Micha's Answer](https://github.com/CSCI-4830-002-2014/challenge-week-12/tree/master/examples/reddit)
 
-## Challenge 6-8
+## Challenge 6-10
 
-Speculate on biases in this data by answering the following questions.
+Let's think a little bit about how data can be bias (and thus your results too!)
 
-* In what way might our answer to Challenge 6 be biased?
+Consider the scenario where we find out that the data we just analyzed only
+showed comments that received 10 upvotes or more: 
+
+* How would the above analysis be effected?  
+* Would your conclusions change?
+
+Speculate further on biases in this data by answering the following questions.
+
+* In what oways might our answer to Challenge 5 be biased?
 * What other biases may exist in this data set? [List as many as you can think of]
 * How might you prove that one of these biases exists? [Choose one from above and explain how you'd prove it]
 
