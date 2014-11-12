@@ -18,7 +18,7 @@ Now you have the choice to import the data into MongoDB or play with it raw - wh
 
 Submit a screenshot of either a query or a snippet of the data raw to show you have it
 
-## Challenge 2-5
+## Challenge 2-4
 
 Take a look at what's in this dataset and answer the following questions.
 
@@ -26,7 +26,7 @@ Take a look at what's in this dataset and answer the following questions.
 * What insights do you believe you could gain from analyzing this dataset?
 * What do you think this dataset would tell you about the Reddit Community as a whole?
 
-## Challenge 6
+## Challenge 5
 
 Answer Micha's sample question!  Use whatever method you'd like to estimate.  There is no definitive right or wrong answer, the point here is to TRY SOLVING THIS PROBLEM  We'll point you to how Micha answered this question.
 
@@ -37,7 +37,7 @@ Submit a code snippet and an answer to this question
 Micha answered this question using a [Jaccard Distance](http://www.google.com/url?q=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJaccard_index&sa=D&sntz=1&usg=AFQjCNEVx641Q05H4TsuVpL894sPoVEsBQ), which is a measure of how similar two sets are.
 [Link to Micha's Answer](https://github.com/CSCI-4830-002-2014/challenge-week-12/tree/master/examples/reddit)
 
-## Challenge 7-9
+## Challenge 6-8
 
 Speculate on biases in this data by answering the following questions.
 
