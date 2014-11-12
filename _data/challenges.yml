@@ -98,6 +98,8 @@
 - name: Week 12
   url: /challenges/12
   units: 
+    - reddit_data
+    - weather_data
   assigned: 2014-11-10
   due: 2014-11-16
 
