@@ -93,3 +93,11 @@ ml_3:
 graph_1:
    name: Graph database (I)
    url: /units/graph_1
+
+reddit_data:
+   name: Reddit Data
+   url: /units/reddit_data
+
+weather_data:
+   name: Yelp and Weather Data
+   url: /units/weather_data
