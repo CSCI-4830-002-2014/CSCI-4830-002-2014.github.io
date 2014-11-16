@@ -26,7 +26,7 @@ Write a query to find what the average wind speed was on the same day (4/25/2010
 
 Submit the query and the answer
 
-## Challenges 3-6 
+## Challenges 3-5 
 
 Now let's switch contexts.  Go to your Yelp data collection (re-download it if you have to)
 
@@ -38,7 +38,7 @@ Answer the following questions:
 
 Submit your query and answer for each of these questions
 
-## Challenge 7 [OPTIONAL] (10 bonus points)
+## Challenge 6 [OPTIONAL] (10 bonus points)
 
 If you're feeling ambitious and want to learn a little bit about Natural Language Processing, try to answer the following question:
 
