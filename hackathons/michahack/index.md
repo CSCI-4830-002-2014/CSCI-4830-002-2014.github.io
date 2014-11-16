@@ -1,7 +1,7 @@
 ---
 layout: hackathon
 group: hackathon
-id: micha_hack
+id: michahack
 ---
 
 # Timeline
