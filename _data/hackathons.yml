@@ -10,7 +10,7 @@ ids:
   - yelp  
   - internationalaid
   - d3map
-  - micha_hack
+  - michahack
 
 intro:
   name: Introduction
@@ -84,8 +84,8 @@ d3map:
   location: ATLAS Lounge
   date: 2014-11-10
 
-micha_hack:
-  name: Micha's hackathon
+michahack:
+  name: Micha hackathon
   url: /hackathons/michahack
   location: Spark Boulder
   date: 2014-11-17
