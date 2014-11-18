@@ -20,7 +20,7 @@ You should already have both of these datasets.  Refer to
 
 # Repository 
 
-Submit your answers [here](add later)
+Submit your answers [here](https://github.com/CSCI-4830-002-2014/hackathon_yelpweather)
 
 # Teams
 
