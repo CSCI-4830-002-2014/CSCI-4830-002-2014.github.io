@@ -11,6 +11,7 @@ ids:
   - internationalaid
   - d3map
   - michahack
+  - zayo
 
 intro:
   name: Introduction
@@ -85,7 +86,13 @@ d3map:
   date: 2014-11-10
 
 michahack:
-  name: Micha hackathon
+  name: Micha
   url: /hackathons/michahack
   location: Spark Boulder
   date: 2014-11-17
+
+zayo:
+  name: Zayo
+  url: /hackathons/zayo
+  location: Zayo HQ
+  date: 2014-12-1
