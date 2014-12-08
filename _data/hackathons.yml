@@ -12,6 +12,7 @@ ids:
   - d3map
   - michahack
   - zayo
+  - google
 
 intro:
   name: Introduction
@@ -96,3 +97,9 @@ zayo:
   url: /hackathons/zayo
   location: Zayo HQ
   date: 2014-12-1
+
+google:
+  name: Google
+  url: /hackathons/google
+  location: Google Boulder
+  date: 2014-12-8
